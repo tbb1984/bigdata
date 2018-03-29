@@ -1,4 +1,4 @@
-# quick4j
+﻿# quick4j
 
 ------
 
@@ -36,6 +36,3 @@
 * File -> Import -> Existing Maven Projects -> ...
 
 
-## If you have a better suggestion,Please share out,Let's do better.
-> Author ：starzou  
-> Email  ：starzou@126.com
